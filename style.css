@@ -8,7 +8,7 @@ main {background-color: #fc8ddb4b;}
 nav li {text-transform: uppercase;list-style: none; display: inline; margin-left: 10px; text-align: right;}
 nav a {color: rgb(51, 6, 45); text-decoration: none; text-align: right;}
 .PRIMEIROPARAGRAFO {text-align: justify; font-size: 18px; border: black solid 2px; padding: 10px; margin: 10px; overflow-x: auto}
-.SEGUNDOPARAGRAFO {text-align: justify; font-size: 18px; border: black solid 2px; padding: 10px; margin: 10px; overflow-x: auto}
+.SEGUNDOPARAGRAFO {text-align: justify; font-size: 18px; border: black solid 2px; padding: 10px; margin: 10px;}
 #TITULOIMAGEM {width: 5% ; height: 5%;}
-#lista01 {display:block; text-align: center;}
-#lista02 {display: inline-block;}
+#lista01 {display:block; text-align: center; overflow-x: auto}
+#lista02 {display: inline-block; overflow-x: auto}
